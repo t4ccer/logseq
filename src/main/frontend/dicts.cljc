@@ -4912,6 +4912,7 @@
         :content/click-to-edit "Kliknij, aby edytować"
         :settings-page/git-confirm "Musisz uruchomić ponownie aplikację żeby zastosować zmiany w ustawieniach Gita."
         :settings-page/git-switcher-label "Włącz opcję autocommit w Git"
+	:settings-page/edit-setting "Edytuj"
         :settings-page/git-commit-delay "Wykonaj commit co każde [s.]"
         :settings-page/edit-config-edn "Edytuj config.edn"
         :settings-page/edit-custom-css "Edytuj custom.css"
